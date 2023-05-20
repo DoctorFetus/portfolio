@@ -1,0 +1,35 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 350px;
+    text-align: center;
+}
+
+.image {
+    margin: 0 auto;
+    width: 250px;
+    height: 200px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.watchMore {
+    width: 70px;
+    height: 25px;
+    border: 2px solid ;
+}
+
+.text {
+
+}
+
+.projectTitle {
+
+}
+
+.projectDescr {
+
+}

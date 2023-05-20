@@ -1,0 +1,19 @@
+.remoteWork {
+    height: 30vh;
+    background-color: gray;
+}
+
+.container {
+    display: block;
+}
+
+.title {
+    text-align: center;
+}
+
+.hire {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 30px;
+}
