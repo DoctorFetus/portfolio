@@ -1,12 +1,16 @@
 .projectsWrapper {
-    height: 100vh;
+    min-height: 100vh;
     background-color: darksalmon;
 }
 
 .projectsContainer {
     align-items: center;
     flex-direction: column;
-    justify-content: space-around;
+    /*justify-content: space-around;*/
+}
+
+.title {
+    background-color: aliceblue;
 }
 
 .projects {

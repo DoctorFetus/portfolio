@@ -1,0 +1,28 @@
+.footer {
+    height: 30vh;
+    background-color: darkseagreen;
+}
+
+.container {
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title {
+
+}
+
+.networks {
+    border: 1px solid;
+    width: 260px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.network {
+    width: 30px;
+    height: 30px;
+    background-color: aliceblue;
+}

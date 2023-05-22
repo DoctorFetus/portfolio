@@ -10,9 +10,7 @@ const Project = (props: ProjectPropsType) => {
     return (
         <div className={style.wrapper}>
             <div className={style.image}>
-                <div className={style.watchMore}>
-                    Watch
-                </div>
+                <a className={style.watchMore}>Watch</a>
             </div>
             <div className={style.text}>
                 <h3 className={style.projectTitle}>{props.title}</h3>

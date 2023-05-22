@@ -1,0 +1,27 @@
+.contacts {
+    height: 100vh;
+    background-color: beige;
+}
+
+.contactsContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+
+}
+
+.formContainer {
+    border: 1px solid black;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 275px;
+    gap: 5px;
+}
+
+.submitBtn {
+    margin: 0 auto;
+    width: 100px;
+    height: 40px;
+}
