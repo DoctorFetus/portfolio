@@ -1,4 +1,3 @@
-import React from 'react';
 import style from './Skills.module.css'
 import styleContainer from '../../common/styles/Container.module.css'
 import Skill from "./Skill/Skill";

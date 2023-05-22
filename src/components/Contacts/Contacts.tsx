@@ -1,4 +1,3 @@
-import React from 'react';
 import styleContainer from '../../common/styles/Container.module.css'
 import style from './Contacts.module.css'
 
@@ -10,7 +9,7 @@ const Contacts = () => {
                 <form action="" className={style.formContainer}>
                     <input/>
                     <input/>
-                    <textarea name="" id="" cols="30" rows="10"></textarea>
+                    <textarea></textarea>
                 </form>
                 <button className={style.submitBtn}>Submit</button>
             </div>

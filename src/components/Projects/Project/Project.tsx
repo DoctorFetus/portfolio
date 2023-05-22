@@ -1,4 +1,3 @@
-import React from 'react';
 import style from './Project.module.css'
 
 type ProjectPropsType = {
